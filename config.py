@@ -1,0 +1,6 @@
+customhost = "abhipydatabase.crjg1betu4xo.ap-south-1.rds.amazonaws.com"
+customuser = "abhipydatabase"
+custompass = "Abhijit123"
+customdb = "employee"
+custombucket = "abhipy"
+customregion = "ap-south-1"
